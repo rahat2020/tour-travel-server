@@ -1,7 +1,7 @@
 {
-  "name": "book-catalog",
+  "name": "traveltour",
   "version": "1.0.0",
-  "description": "this is book catalog server side",
+  "description": "this is traveltour server side",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
